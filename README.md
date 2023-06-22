@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://profile-counter.glitch.me/yitlelim/count.svg <br>
-https://komarev.com/ghpvc/?username=yitlelim&color=orange
+<img src="https://profile-counter.glitch.me/yitlelim/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=yitlelim&color=orange" />
 
 <!--
 **yitlelim/yitlelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
